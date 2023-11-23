@@ -4,9 +4,8 @@
              x:Class="AppZIP.MainPage">
 
     <Grid>
-        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
-            <Button x:Name="btnDescargar"  Text="Descargar" Clicked="Descargar" BackgroundColor="Green"/>
-            <Entry x:Name="entryNombreArchivo" Placeholder="Nombre del archivo ZIP"/>
+        <StackLayout VerticalOptions="Center" HorizontalOptions="CenterAndExpand">
+            <Button x:Name="btnDescargar"  Text="Descargar" Clicked="Descargar" BackgroundColor="Green" TextColor="White"/>
         </StackLayout>
     </Grid>
 
