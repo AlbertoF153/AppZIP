@@ -1,0 +1,15 @@
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\bin\Debug\netstandard2.0\AppZIP.deps.json
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\bin\Debug\netstandard2.0\AppZIP.dll
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\bin\Debug\netstandard2.0\ref\AppZIP.dll
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\bin\Debug\netstandard2.0\AppZIP.pdb
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\AppZIP.csproj.AssemblyReference.cache
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\AppZIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\AppZIP.AssemblyInfoInputs.cache
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\AppZIP.AssemblyInfo.cs
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\AppZIP.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\AppZIP.dll
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\refint\AppZIP.dll
+C:\Users\Alberto\Downloads\AppZIP\AppZIP\AppZIP\obj\Debug\netstandard2.0\AppZIP.pdb
